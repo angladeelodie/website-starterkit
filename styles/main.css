@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'abc_diatype_mono_unlicensBdIt';
+    src: url('fonts/abcdiatypemono-bolditalic-trial-webfont.woff2') format('woff2'),
+         url('fonts/abcdiatypemono-bolditalic-trial-webfont.woff') format('woff');
+}
+
+
+body{
+    background-color: grey;
+}
+
+h1{
+    font-family: 'abc_diatype_mono_unlicensBdIt';
+}
